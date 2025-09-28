@@ -6,12 +6,12 @@ title: "About Me"
 
 <img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Cora Montgomery</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/cora-montgomery/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/coramo123" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,45 +19,42 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+What excites me most about business is the puzzle-solving aspect—identifying where organizations get stuck and architecting pathways forward. Through my studies in BYU's Strategic Management Program, I've discovered that the sweet spot lies at the intersection of data-driven insights and human-centered design, which is why I'm pursuing dual emphasis areas in Corporate Strategy and Product Management.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Strategic Management Program** (Corporate Strategy & Product Management Emphasis), Brigham Young University (Current)
+- **Relevant Coursework**: Data Analytics, Strategic Problem Solving, AI Prototyping, Marketing, Product Management
+- **Focus Areas**: Corporate strategy, product development, business growth, and strategic decision-making
 
-### Experience
+### Current Projects
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Email Management Platform - Founder/Product Developer
+*In Development*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
-
-#### Another Position - Company Name
-*Dates*
-
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Developing an email management solution specifically designed for small service-based business owners
+- Currently in the validation stage, conducting user research and market analysis
+- Focused on helping business owners optimize their time and improve communication efficiency
+- Applying product management principles to identify pain points and design user-centered solutions
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Data Analytics and business intelligence
+- AI Prototyping and emerging technology applications
+- Strategic analysis and market research
+- Product development and validation methodologies
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+**Core Competencies**
+- Strategic problem solving and critical thinking
+- Product management and development
+- Market analysis and user research
+- Cross-functional collaboration and communication
+- Business growth strategy and optimization
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+Passionate about innovation, entrepreneurship, and finding creative solutions to business challenges. I enjoy staying current with emerging technologies and their applications in solving real-world problems.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm seeking internship opportunities where I can dive into real product challenges and contribute fresh perspectives to established teams. The ideal role would let me flex both my analytical muscles and creative problem-solving skills—whether that's uncovering user insights that reshape a product roadmap or identifying new market opportunities through competitive analysis. I'm drawn to organizations that aren't afraid to experiment and iterate their way to breakthrough solutions.

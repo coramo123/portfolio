@@ -1,17 +1,17 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Welcome to Cora Montgomery's Portfolio"
 ---
 
 ::: {.hero-banner .text-center}
 
 <img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Cora Montgomery</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/cora-montgomery/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/coramo123" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -21,8 +21,12 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel. 
+### [Email Management Platform](projects/project-1.qmd)
+Developing an email management solution for small service-based business owners to optimize communication and save time.
 
 :::
+
+## About Me
+
+BYU Strategic Management student specializing in corporate strategy and product development. I thrive on turning complex business challenges into actionable solutions. When I'm not in class studying AI prototyping or data analytics, you'll find me deep in user research for my latest venture—an email platform designed to give small business owners their time back.
 
