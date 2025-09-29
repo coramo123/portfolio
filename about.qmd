@@ -40,6 +40,13 @@ I'm developing an email management solution specifically designed for small serv
 
 My focus centers on helping business owners optimize their time and improve communication efficiency. I'm applying core product management principles to identify genuine pain points and design user-centered solutions that address real-world challenges.
 
+#### Fan Mail Analysis Platform
+**Role:** Founder/Product Developer
+
+I'm developing an AI-powered platform to help companies efficiently scan, analyze, and respond to customer fan mail and feedback. Currently in the concept development and market research phase, I'm conducting interviews with customer service managers and researching AI text analysis technologies.
+
+This project demonstrates my ability to identify real-world business challenges and develop technology-driven solutions that enhance customer experience and operational efficiency.
+
 ### Skills & Interests
 
 **Technical Skills**

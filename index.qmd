@@ -26,9 +26,18 @@ I'm developing an email management solution designed specifically for small serv
 
 :::
 
+<div style="margin-bottom: 20px;"></div>
+
+::: {.g-col-12 .g-col-md-6 .card}
+
+### [Fan Mail Analysis Platform](projects/project-2.qmd)
+An innovative AI-powered solution designed to help companies efficiently scan, analyze, and respond to customer fan mail and feedback. This platform demonstrates my ability to identify real-world business challenges and develop technology-driven solutions.
+
+:::
+
 ## About Me
 
 I'm a Strategic Management student at BYU, specializing in corporate strategy and product development. I thrive on transforming complex business challenges into actionable, data-driven solutions.
 
-Currently, I'm channeling my passion for problem-solving into developing an email management platform for small business owners. Through extensive user research and market validation, I'm working to create a solution that gives entrepreneurs their most valuable resource back: time.
+Currently, I'm channeling my passion for problem-solving into developing innovative solutions for small business owners and companies looking to optimize their customer communications. Through extensive user research and market validation, I'm working to create solutions that deliver real value and save valuable time.
 
