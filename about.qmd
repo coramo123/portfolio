@@ -4,7 +4,7 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile square.png" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
 <h1>Cora Montgomery</h1>
 
@@ -19,7 +19,11 @@ title: "About Me"
 
 ## Background
 
-What excites me most about business is the puzzle-solving aspect—identifying where organizations get stuck and architecting pathways forward. Through my studies in BYU's Strategic Management Program, I've discovered that the sweet spot lies at the intersection of data-driven insights and human-centered design, which is why I'm pursuing dual emphasis areas in Corporate Strategy and Product Management.
+What excites me most about business is the puzzle-solving aspect. I focus on identifying where organizations get stuck and architecting pathways forward.
+
+Through my studies in BYU's Strategic Management Program, I've discovered that the most impactful solutions emerge at the intersection of data-driven insights and human-centered design.
+
+This discovery has shaped my academic focus, leading me to pursue dual emphasis areas in Corporate Strategy and Product Management. I believe the best business strategies are built on deep customer understanding combined with rigorous analytical thinking.
 
 ### Education
 
@@ -29,32 +33,29 @@ What excites me most about business is the puzzle-solving aspect—identifying w
 
 ### Current Projects
 
-#### Email Management Platform - Founder/Product Developer
-*In Development*
+#### Email Management Platform
+**Role:** Founder/Product Developer
 
-- Developing an email management solution specifically designed for small service-based business owners
-- Currently in the validation stage, conducting user research and market analysis
-- Focused on helping business owners optimize their time and improve communication efficiency
-- Applying product management principles to identify pain points and design user-centered solutions
+I'm developing an email management solution specifically designed for small service-based business owners. This project is currently in the validation stage, where I'm conducting comprehensive user research and market analysis to ensure product-market fit.
+
+My focus centers on helping business owners optimize their time and improve communication efficiency. I'm applying core product management principles to identify genuine pain points and design user-centered solutions that address real-world challenges.
 
 ### Skills & Interests
 
 **Technical Skills**
-- Data Analytics and business intelligence
-- AI Prototyping and emerging technology applications
-- Strategic analysis and market research
-- Product development and validation methodologies
+
+I have expertise in data analytics and business intelligence, with hands-on experience in AI prototyping and emerging technology applications. My skill set includes strategic analysis and market research, as well as product development and validation methodologies.
 
 **Core Competencies**
-- Strategic problem solving and critical thinking
-- Product management and development
-- Market analysis and user research
-- Cross-functional collaboration and communication
-- Business growth strategy and optimization
+
+My core strengths center on strategic problem solving and critical thinking, combined with extensive product management and development experience. I excel at market analysis and user research, while maintaining strong cross-functional collaboration and communication skills. I'm particularly skilled in business growth strategy and optimization.
 
 **Interests**
-Passionate about innovation, entrepreneurship, and finding creative solutions to business challenges. I enjoy staying current with emerging technologies and their applications in solving real-world problems.
+
+I'm passionate about innovation and entrepreneurship, particularly in finding creative solutions to complex business challenges. I stay current with emerging technologies and focus on understanding how they can be applied to solve real-world problems in meaningful ways.
 
 ### What's Next
 
-I'm seeking internship opportunities where I can dive into real product challenges and contribute fresh perspectives to established teams. The ideal role would let me flex both my analytical muscles and creative problem-solving skills—whether that's uncovering user insights that reshape a product roadmap or identifying new market opportunities through competitive analysis. I'm drawn to organizations that aren't afraid to experiment and iterate their way to breakthrough solutions.
+I'm seeking internship opportunities where I can dive into real product challenges and contribute fresh perspectives to established teams. The ideal role would allow me to leverage both my analytical capabilities and creative problem-solving skills.
+
+I excel at uncovering user insights that reshape product roadmaps and identifying new market opportunities through competitive analysis. I thrive in environments that value data-driven decision making and am particularly drawn to organizations that aren't afraid to experiment and iterate their way to breakthrough solutions.

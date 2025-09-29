@@ -4,7 +4,7 @@ title: "Welcome to Cora Montgomery's Portfolio"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile square.png" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
 <h1>Cora Montgomery</h1>
 
@@ -22,11 +22,13 @@ title: "Welcome to Cora Montgomery's Portfolio"
 ::: {.g-col-12 .g-col-md-6 .card}
 
 ### [Email Management Platform](projects/project-1.qmd)
-Developing an email management solution for small service-based business owners to optimize communication and save time.
+I'm developing an email management solution designed specifically for small service-based business owners. This platform focuses on optimizing communication workflows and saving valuable time through intelligent automation.
 
 :::
 
 ## About Me
 
-BYU Strategic Management student specializing in corporate strategy and product development. I thrive on turning complex business challenges into actionable solutions. When I'm not in class studying AI prototyping or data analytics, you'll find me deep in user research for my latest venture—an email platform designed to give small business owners their time back.
+I'm a Strategic Management student at BYU, specializing in corporate strategy and product development. I thrive on transforming complex business challenges into actionable, data-driven solutions.
+
+Currently, I'm channeling my passion for problem-solving into developing an email management platform for small business owners. Through extensive user research and market validation, I'm working to create a solution that gives entrepreneurs their most valuable resource back: time.
 
