@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Cora's Portfolio"
-  favicon: images/prototyping-favicon.png
+  favicon: images/prototyping-favicon.ico
   navbar:
     background: primary
     left:
