@@ -1,43 +1,120 @@
 ---
-title: "Welcome to Cora Montgomery's Portfolio"
+title: ""
+page-layout: full
 ---
 
-::: {.hero-banner .text-center}
+::: {.hero-section}
 
-<img src="images/profile square.png" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<div class="hero-content">
 
-<h1>Cora Montgomery</h1>
+<img src="images/profile square.png" alt="Cora Montgomery" class="profile-image" width="180">
 
-<a href="https://www.linkedin.com/in/cora-montgomery/" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/coramo123" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a>
+# Cora Montgomery
 
-:::
+<p class="hero-subtitle">BYU Strategy & Honors Student | VP of Strategy & WSA | Strategic Growth & Operations</p>
 
-## Featured Projects
-
-::: {.g-col-12 .g-col-md-6 .card}
-
-### [Email Management Platform](projects/project-1.qmd)
-I'm developing an email management solution designed specifically for small service-based business owners. This platform focuses on optimizing communication workflows and saving valuable time through intelligent automation.
+</div>
 
 :::
 
-<div style="margin-bottom: 20px;"></div>
+::: {.intro-section}
 
-::: {.g-col-12 .g-col-md-6 .card}
+<div class="intro-content">
+
+I first learned to solve problems at Latin America's top boutique hotels—[VIK](https://www.vikretreats.com/) and [Awasi](https://awasi.com/)—where understanding what people need is everything. I got really good at anticipating needs and solving problems in real-time for high-profile guests.
+
+Then I came to BYU to scale that impact. Now I study strategy in the Honors Program and serve as VP of Strategy & WSA, focusing on strategic growth and operations. My experience spans marketing, analytics, and product development—giving me perspective on both the impact of problems and the structure needed to solve them.
+
+**I'm seeking internships in product management or corporate strategy where I can work on collaborative teams to solve meaningful problems.**
+
+</div>
+
+:::
+
+::: {.section-header}
+## Projects
+:::
+
+::: {.projects-grid}
+
+::: {.project-card}
 
 ### [Fan Mail Analysis Platform](projects/project-2.qmd)
-An innovative AI-powered solution designed to help companies efficiently scan, analyze, and respond to customer fan mail and feedback. This platform demonstrates my ability to identify real-world business challenges and develop technology-driven solutions.
+
+<p class="project-description">
+AI platform that helps companies analyze and respond to customer feedback. Working prototype in use by multiple companies—they're seeing significant time savings.
+</p>
+
+<div class="project-tags">
+  <span class="tag">Live Product</span>
+  <span class="tag">AI/ML</span>
+  <span class="tag">B2B SaaS</span>
+</div>
 
 :::
 
-## About Me
+::: {.project-card}
 
-I'm a Strategic Management student at BYU, specializing in corporate strategy and product development. I thrive on transforming complex business challenges into actionable, data-driven solutions.
+### [Email Management Platform](projects/project-1.qmd)
 
-Currently, I'm channeling my passion for problem-solving into developing innovative solutions for small business owners and companies looking to optimize their customer communications. Through extensive user research and market validation, I'm working to create solutions that deliver real value and save valuable time.
+<p class="project-description">
+Email automation for small business owners drowning in their inboxes. Currently validating through extensive user research with 20+ business owners.
+</p>
 
+<div class="project-tags">
+  <span class="tag">User Research</span>
+  <span class="tag">Automation</span>
+  <span class="tag">Product Development</span>
+</div>
+
+:::
+
+::: {.project-card}
+
+### [Landed Travel](marketing/landed-travel.qmd)
+
+<p class="project-description">
+Director of Digital Marketing for luxury travel company specializing in tailor-made experiences across Latin America and Antarctica.
+</p>
+
+<div class="project-tags">
+  <span class="tag">Digital Marketing</span>
+  <span class="tag">Luxury Brand</span>
+  <span class="tag">Strategy</span>
+</div>
+
+:::
+
+::: {.project-card}
+
+### [Women in Strategy Association](marketing/wsa.qmd)
+
+<p class="project-description">
+Co-President of BYU's Women in Strategy Association, leading organizational growth, community building, and brand development.
+</p>
+
+<div class="project-tags">
+  <span class="tag">Leadership</span>
+  <span class="tag">Community Building</span>
+  <span class="tag">Brand Development</span>
+</div>
+
+:::
+
+:::
+
+::: {.cta-section}
+
+<div class="cta-content">
+
+### Let's Talk
+
+Looking for someone who combines strategic thinking with hands-on building? Let's connect.
+
+<a href="https://www.linkedin.com/in/cora-montgomery/" class="btn btn-primary" target="_blank">
+  Get In Touch
+</a>
+
+</div>
+
+:::

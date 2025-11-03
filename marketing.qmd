@@ -1,0 +1,56 @@
+---
+title: "Marketing"
+page-layout: full
+---
+
+::: {.intro-section}
+
+<div class="intro-content">
+
+I approach marketing as a way to connect solutions with the people who need them. Through data analysis, strategic positioning, and clear storytelling, I focus on understanding audiences and delivering messages that resonate.
+
+From digital campaigns to growth strategies, I combine analytics with creativity to drive measurable results.
+
+</div>
+
+:::
+
+::: {.section-header}
+## Projects
+:::
+
+::: {.projects-grid}
+
+::: {.project-card}
+
+### [Landed Travel](marketing/landed-travel.qmd)
+
+<p class="project-description">
+Director of Digital Marketing for luxury travel company specializing in tailor-made experiences across Latin America and Antarctica. Leading digital strategy, brand positioning, and customer acquisition.
+</p>
+
+<div class="project-tags">
+  <span class="tag">Digital Marketing</span>
+  <span class="tag">Luxury Brand</span>
+  <span class="tag">Strategy</span>
+</div>
+
+:::
+
+::: {.project-card}
+
+### [Women in Strategy Association (WSA)](marketing/wsa.qmd)
+
+<p class="project-description">
+Co-President of BYU's Women in Strategy Association, leading organizational growth, community building, and brand development for a student organization empowering women in business strategy.
+</p>
+
+<div class="project-tags">
+  <span class="tag">Leadership</span>
+  <span class="tag">Community Building</span>
+  <span class="tag">Brand Development</span>
+</div>
+
+:::
+
+:::

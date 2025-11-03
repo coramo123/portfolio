@@ -3,35 +3,34 @@ project:
   output-dir: _site
 
 website:
-  title: "Cora's Portfolio"
+  title: "Cora Montgomery"
   favicon: images/prototyping-favicon.ico
+  search: false
   navbar:
     background: primary
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
-      - text: Projects
-        menu:
-          - href: projects/project-1.qmd
-            text: Email Management Platform
-          - href: projects/project-2.qmd
-            text: Fan Mail Analysis Platform
-          #- href: projects/project-3.qmd
-          #  text: Project 3
-          #- href: projects/project-4.qmd
-          #  text: Project 4
-          #- href: projects/project-5.qmd
-          #  text: Project 5
-          #- href: projects/project-6.qmd
-          #  text: Project 6
+        text: About Cora
+      - href: product-management.qmd
+        text: Product Management
+      - href: marketing.qmd
+        text: Marketing
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/cora-montgomery/
+        aria-label: LinkedIn
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
+    toc: false
+    smooth-scroll: true
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
