@@ -5,62 +5,71 @@ categories: [AI/ML, Product Development, B2B SaaS]
 
 ## Overview
 
-AI-powered platform that helps companies analyze and respond to customer feedback efficiently. [View on GitHub](https://github.com/coramo123/mail-scanner)
+AI-powered platform that helps companies analyze and respond to customer feedback efficiently. Features intelligent mail scanning with OCR that extracts sender information from physical mail photos.
 
-**Status:** Working prototype in production with multiple companies
+**[Try Live Prototype](https://mail-scanner.onrender.com/)** | [Fan Mail Analysis Platform on GitHub](https://github.com/coramo123/mail-scanner)
+
+*Note: Prototype may be temporarily down for brief maintenance periods.*
+
+**Status:** Working prototype being tested by several companies—early feedback has been overwhelmingly positive
 
 **Timeline:** September 2024 - Present
 
-**Role:** Founder/Product Developer
+**Role:** Founder/Product Manager & Developer
 
 ---
 
 ## The Problem
 
-Companies receive thousands of customer messages but reading, categorizing, and responding takes hours every week. Customer service teams spend 15-20 hours/week sorting messages, miss valuable insights in the volume, and struggle to maintain personalized responses at scale.
+Companies receive thousands of pieces of physical mail—fan letters, customer correspondence, packages—but processing them takes hours every week. Teams spend 15-20 hours/week manually reading addresses, categorizing mail by sender and type, and organizing responses. Important mail gets lost in the pile, and there's no easy way to track correspondence history or manage responses at scale.
 
 ## The Solution
 
-An AI platform that automates categorization and analysis while keeping humans in control.
+An AI-powered platform that automates physical mail processing while keeping humans in control.
 
 **What it does:**
 
-- Auto-categorizes messages by topic, sentiment, and urgency
-- Extracts key insights and trends
-- Generates response suggestions that match company voice
-- Provides analytics to track sentiment over time
+- **Intelligent Mail Scanning:** Uses Google Gemini Vision API to extract sender information from photos of physical mail (envelopes, postcards, packages)—even handwritten addresses
+- **Return Address Extraction:** Automatically identifies and extracts return addresses from mail photos
+- **Sender Identification:** Captures sender names for easy organization
+- **Mail Type Classification:** Categorizes mail by type for efficient sorting
+- **Address Verification:** Validates and standardizes addresses with Smarty's USPS database
+- **Sorting & Organization:** Allows users to sort and manage incoming mail efficiently
+- **Response Management:** Enables printing out responses to fan mail and customer correspondence
 
 ## Current Status
 
-- Working prototype deployed to multiple companies
-- Teams reporting 60-70% time savings on categorization
-- Companies actively requesting additional features
+- Working prototype being tested by several companies
+- Early testers are loving the results—reporting significant time savings on mail processing
+- Collecting real-world feedback to shape next features
 
-**Building now:** Multi-tenant architecture, custom AI training per company, advanced analytics, CRM integrations
+**Building now:** Multi-tenant architecture, batch processing capabilities, advanced filtering and search, CRM integrations
 
 ## How I Built It
 
-**User research first.** Interviewed customer service managers to understand real pain points.
+**User research first.** Interviewed companies that process high volumes of physical mail to understand real pain points.
 
 **Ship fast.** Got working prototype into users' hands quickly rather than perfecting in private.
 
-**Iterate based on feedback.** Real usage data shaped the roadmap.
+**Iterate based on feedback.** Real usage data from companies processing actual fan mail shaped the roadmap.
 
-**Technical approach:** NLP and sentiment analysis, cloud infrastructure, multi-tenant backend, dashboard UI
+**Technical stack:** Python/Flask backend, Google Gemini Vision API for intelligent OCR (reads even handwritten addresses), Smarty address verification for USPS validation, Supabase authentication and database, deployed on Render with cloud infrastructure
 
 ## Key Insights
 
-**Companies want augmentation, not automation.** Best version gives teams smart suggestions they review and approve—they stay in control.
+**Companies want augmentation, not automation.** The best version extracts and organizes mail data automatically, but keeps humans in control of responses and decisions.
 
-**Security is critical.** Separate, secure backends for each company aren't optional when handling customer data.
+**Accuracy matters more than speed.** Users need confidence in the extracted addresses and sender information—that's where AI vision models shine over traditional OCR.
 
-**Early traction validates the problem.** Companies using it and reporting results confirmed we're solving real pain.
+**Security is critical.** Separate, secure backends for each company aren't optional when handling customer correspondence and address data.
+
+**Early traction validates the problem.** Companies testing it and loving the results confirmed we're solving real pain.
 
 ## What's Next
 
-**Short-term:** Complete secure backend, implement custom AI training, add advanced analytics
+**Short-term:** Complete multi-tenant architecture, implement batch processing for high-volume mail, add advanced filtering and search
 
-**Long-term:** Scale to more companies and industries, build CRM integrations, expand to other communication types
+**Long-term:** Scale to more companies and industries, build integrations with CRM and response management systems, expand to additional mail types and use cases
 
 ---
 

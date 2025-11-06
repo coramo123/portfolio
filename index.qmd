@@ -42,7 +42,7 @@ Then I came to BYU to scale that impact. Now I study strategy in the Honors Prog
 ### [Fan Mail Analysis Platform](projects/project-2.qmd)
 
 <p class="project-description">
-AI platform that helps companies analyze and respond to customer feedback. Working prototype in use by multiple companies—they're seeing significant time savings.
+AI platform that helps companies analyze and respond to customer feedback. Features intelligent mail scanning with OCR. <a href="https://mail-scanner.onrender.com/" target="_blank">Try the live prototype</a>—currently being tested by several companies who are loving the results so far.
 </p>
 
 <div class="project-tags">
